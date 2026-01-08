@@ -10,12 +10,13 @@ Web Developer | Full Stack | AI Enthusiast
 ## 👨‍💻 About Me
 
 🎓 M.C.A. (AI) student at Parul University  
-🎓 B.C.A. in Full Stack Web Development  
+🎓 B.C.A. in Blockchain Technology 
 💻 MERN stack developer with PostgreSQL experience  
 🚀 Passionate about scalable web apps & clean code  
-🌱 Learning DSA, System Design & AI
+🧠 Strong foundation in Data Structures & Algorithms
 
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-chaurasia-7a1613250/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
