@@ -11,7 +11,7 @@ Web Developer | Full Stack | AI Enthusiast
 
 🎓 M.C.A. (AI) student at Parul University  
 🎓 B.C.A. in Blockchain Technology                                                                                                           
-💻 MERN stack developer
+💻 MERN stack developer                                                                                                                  
 🚀 Passionate about scalable web apps & clean code  
 🧠 Strong foundation in Data Structures & Algorithms
 
