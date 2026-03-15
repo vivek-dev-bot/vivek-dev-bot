@@ -7,6 +7,17 @@
 </p>
 
 
+<!-- ===================== TYPING EFFECT ===================== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=MCA+in+Artificial+Intelligence+%F0%9F%A7%A0;Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+AI+and+SaaS+Products+%E2%9A%A1"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Web Development projects using React, Node.js and MongoDB  
 
