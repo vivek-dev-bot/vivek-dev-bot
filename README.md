@@ -76,13 +76,13 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=akash172002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=vivek-dev-bot2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
     onerror="this.style.display='none'"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash172002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-dev-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
     onerror="this.style.display='none'"
   />
@@ -91,7 +91,7 @@
 <!-- GitHub Streak — using the most stable alternative endpoint -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=akash172002&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com/?user=vivek-dev-bot&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
     onerror="this.style.display='none'"
   />
@@ -100,7 +100,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akash172002&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-dev-bot&theme=tokyo-night&hide_border=true&area=true"
     alt="Activity Graph"
   />
 </p>
